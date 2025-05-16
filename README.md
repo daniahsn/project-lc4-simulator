@@ -57,4 +57,3 @@ Execution halts if:
 ## 🧑‍💻 Acknowledgements
 
 Developed for **CIS 2400: Computer Systems**, University of Pennsylvania.
-"""

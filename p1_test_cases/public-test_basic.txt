@@ -1,0 +1,7 @@
+address: 00000 contents: 0x9201
+address: 00001 contents: 0x1241
+address: 00002 contents: 0x9403
+address: 00003 contents: 0x164A
+address: 00004 contents: 0xF0FF
+address: 33280 contents: 0x9E00
+address: 33281 contents: 0x8000

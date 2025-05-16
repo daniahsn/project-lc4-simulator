@@ -1,0 +1,14 @@
+{
+    "commands": {
+        "Node version": "node --version"
+    },
+    "preview": {
+        "PennSim Window": "https://{{domain3000}}/",
+        "Project Index (static)": "https://{{domain}}/{{index}}",
+        "Current File (static)": "https://{{domain}}/{{filepath}}",
+        "Box URL": "http://{{domain3000}}/",
+        "Box URL SSL": "https://{{domain3000}}/"
+    },
+  "autogradeTestScripts": ["python3 .guides/secure/autograder.py","python3 ./.guides/secure/sim_grader.py","pwd","ls","ls .guides/secure","python .guides/secure/sim_grader.py","python","python3","chmod +x .guides/secure/grade.sh","sh .guides/secure/grade.sh","ps aux",".guides/secure/echo.sh","python3 .guides/secure/grade.sh",".guides/secure/grade.sh","python3 --version","python3 .guides/secure/sim_grader.py","python3 .guides/secure/sim_grader.py \"hi\""],
+  "debugger": [{"type":"PYTHON3","command":".guides/secure/sim_grader.py","before":"export CODIO_AUTOGRADE_URL=\"lol\"","uuid":"275f97fa-d621-c3df-f916-a2c7fbdc0131","name":"Autograder"}]
+}
